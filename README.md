@@ -23,3 +23,8 @@ I'm Alexandre Laranjeiras a Software Engineer who loves create things and solve 
 - ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 - ![Nuget](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laranjeiras&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laranjeiras&layout=compact&langs_count=6&theme=algolia"/>
+</div>
