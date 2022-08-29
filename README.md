@@ -1,4 +1,4 @@
-### I'm Carlos Alexandre Laranjeiras a Senior .NET Developer who loves create things and solve problems. 👋
+### I'm Carlos Alexandre Laranjeiras, Senior .NET Developer. 👋
 
 [![GitHub](https://img.shields.io/badge/-@Laranjeiras-black?logo=GitHub&style=flat-square&link=https://github.com/Laranjeiras?tab=repositories)](https://github.com/Laranjeiras?tab=repositories)
 
