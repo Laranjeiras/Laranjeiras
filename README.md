@@ -1,4 +1,5 @@
-### Hi there, I'm Alexandre Laranjeiras 👋
+### I'm Carlos Alexandre Laranjeiras a Senior .NET Developer who loves create things and solve problems. 👋
+
 [![GitHub](https://img.shields.io/badge/-@Laranjeiras-black?logo=GitHub&style=flat-square&link=https://github.com/Laranjeiras?tab=repositories)](https://github.com/Laranjeiras?tab=repositories)
 
 - 🔭 I’m currently working on custom codes
@@ -6,7 +7,6 @@
 - 💬 Ask me about all my projects
 - <img src="https://komarev.com/ghpvc/?username=laranjeiras&label=Visualizações+de+perfil&style=flat-square&color=grey" alt="robertorp" />
 
-I'm Alexandre Laranjeiras a Senior Software Developer who loves create things and solve problems.
 
 ![ETHEREUM](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
