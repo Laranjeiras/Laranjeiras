@@ -6,9 +6,16 @@
 - 👯 I try to collaborate on all projects
 - 💬 Ask me about all my projects
 - <img src="https://komarev.com/ghpvc/?username=laranjeiras&label=Visualizações+de+perfil&style=flat-square&color=grey" alt="robertorp" />
-<a href="https://www.credly.com/badges/0d659ede-4300-4aa4-874c-d1819866ff9e/public_url" target="_blank">
-<img src="https://github.com/Laranjeiras/Laranjeiras/blob/main/microsoft-certified-azure-fundamentals_120_120.png" />
+- Microsoft Certified: Azure Developer Associate
+- Microsoft Certified: Azure Fundamentals 
+<a href="https://learn.microsoft.com/api/credentials/share/pt-br/CarlosAlexandreLaranjeiras-2468/B8CDB0E8E596C4F4?sharingId=7237628C1FFA6D51" target="_blank">
+    <img src="https://github.com/Laranjeiras/Laranjeiras/blob/main/microsoft-certified-204-associate-badge.png"/>
 </a>
+<a href="https://learn.microsoft.com/api/credentials/share/pt-br/CarlosAlexandreLaranjeiras-2468/6F2973B55B2BDA16?sharingId=7237628C1FFA6D51" target="_blank">
+    <img src="https://github.com/Laranjeiras/Laranjeiras/blob/main/microsoft-certified-azure-fundamentals_120_120.png" />
+</a>
+
+
 
 - **Some of my skills:**
 - ![dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
