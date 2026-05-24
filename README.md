@@ -35,10 +35,10 @@ Atuo como referência técnica em projetos de alta complexidade, com forte alinh
 - **Microsoft Certified: Azure Fundamentals**
 
 <a href="https://learn.microsoft.com/api/credentials/share/pt-br/CarlosAlexandreLaranjeiras-2468/B8CDB0E8E596C4F4?sharingId=7237628C1FFA6D51" target="_blank">
-    <img src="https://raw.githubusercontent.com/Laranjeiras/Laranjeiras/main/microsoft-certified-204-associate-badge.png" width="120"/>
+    <img src="https://github.com/Laranjeiras/Laranjeiras/blob/main/microsoft-certified-204-associate-badge.png"/>
 </a>
 <a href="https://learn.microsoft.com/api/credentials/share/pt-br/CarlosAlexandreLaranjeiras-2468/6F2973B55B2BDA16?sharingId=7237628C1FFA6D51" target="_blank">
-    <img src="https://raw.githubusercontent.com/Laranjeiras/Laranjeiras/main/microsoft-certified-azure-fundamentals_120_120.png" width="120"/>
+    <img src="https://github.com/Laranjeiras/Laranjeiras/blob/main/microsoft-certified-azure-fundamentals_120_120.png" />
 </a>
 
 ---
