@@ -1,6 +1,6 @@
 ### Olá! Eu sou Carlos Alexandre Laranjeiras 👋
 
-**Engenheiro de Software | Especialista em .NET | Azure | Sistemas do Mercado Financeiro e Fiscais (Sefaz)**
+**Engenheiro de Software | Especialista .NET AWS Azure | Mercado Financeiro e Fiscais (Sefaz)**
 
 Atuo como referência técnica em projetos de alta complexidade, com forte alinhamento entre as áreas de tecnologia e produto, garantindo soluções escaláveis, performáticas e alinhadas às necessidades de negócio.
 
