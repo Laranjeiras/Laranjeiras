@@ -2,8 +2,6 @@
 
 **Engenheiro de Software | Especialista em .NET | Azure | Sistemas do Mercado Financeiro e Fiscais (Sefaz)**
 
-Engenheiro de Software especialista em .NET com sólida experiência no desenvolvimento de sistemas complexos para o **mercado financeiro** e **fiscal (Sefaz)**. 
-
 Atuo como referência técnica em projetos de alta complexidade, com forte alinhamento entre as áreas de tecnologia e produto, garantindo soluções escaláveis, performáticas e alinhadas às necessidades de negócio.
 
 ---
